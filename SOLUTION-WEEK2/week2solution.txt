@@ -33,8 +33,8 @@ insert into stud_detail values(8,"rajkot",5678903421);
 insert into stud_detail values(9,"junaghdh",6578903421);
 insert into stud_detail values(10,"Bharuch",9808767834);
 
-1.Display stud table record.
-->  select * from stud;
+1.Display stud208 table record.
+->  select * from stud208;
 
 2.Display stud_detail table record.
 ->  select * from stud_detail;
